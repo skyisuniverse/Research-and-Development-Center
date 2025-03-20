@@ -1,0 +1,10 @@
+{
+  "index": "What is Cogniverse?",
+  "seminar": "Seminar",
+  "contact": {
+    "title": "Contact ↗",
+    "type": "page",
+    "href": "https://github.com/AI-Guild-Synthium",
+    "newWindow": true
+  }
+}
