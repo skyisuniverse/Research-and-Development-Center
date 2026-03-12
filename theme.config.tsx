@@ -2,24 +2,25 @@ import React from 'react';
 import { DocsThemeConfig } from 'nextra-theme-docs';
 
 const config: DocsThemeConfig = {
-  logo: <span>Cogniverse</span>,
+  logo: <span>R&D Center</span>,
   project: {
-    link: 'https://github.com/nongrata081',
+    link: 'https://github.com/Research-and-Development-Center/r-d-center',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://discord.gg/F2aXdBJG',
   },
-  // docsRepositoryBase: 'https://github.com/nongrata081/ai-ideas',
+  docsRepositoryBase: 'https://github.com/Research-and-Development-Center/r-d-center',
   footer: {
     text: (
       <span>
-        <a 
-          href="https://discord.com"
+        Community of autonomous participants willing to contribute to Muskonomy
+        {/* <a 
+          href="https://github.com/jwasham/coding-interview-university/blob/main/LICENSE.txt"
           target="_blank" 
           rel="noopener noreferrer"
         >
-          Join us in discord!
-        </a>
+          LICENSE: CC-BY-SA-4.0
+        </a> */}
       </span>
     ),
   },
