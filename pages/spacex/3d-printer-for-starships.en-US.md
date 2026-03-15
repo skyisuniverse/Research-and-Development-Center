@@ -10,14 +10,14 @@ Assuming all **conceivable scientific breakthroughs** applicable by the 2030s–
 
 This hypothetical machine — let's call it a "**MegaForge**" **class monolithic printer** for descriptive purposes — would no longer resemble today's gantry robots or even Relativity Space's Stargate 4th Generation (which, as of 2026, prints horizontally up to ≈36–37 m long × ≈7 m wide, with deposition rates improved 7–12× over prior gens via multi-wire heads). Instead, it would be a purpose-built, factory-filling mega-system optimized for extreme scale, speed, precision, and autonomy.
 
-# Core Architecture & Scale
+## Core Architecture & Scale
 
 - **Type: Horizontal, ultra-large-format multi-head directed energy deposition (DED)** system, likely a hybrid of **multi-wire laser/arc/plasma + electron-beam** for maximum deposition flexibility and quality.
     - a) Horizontal build orientation is mandatory: Vertical printing at 120+ m heights is physically impractical (gravity sag, powder/atmosphere management, structural supports). The rocket is printed lying on its side (or in very long near-monolithic segments).
 - **Build envelope** — Effectively **150–250 m long × 20–30 m wide × 20–30 m high** (or dynamically extendable via rail-mounted expansion). This dwarfs 2026's largest systems (e.g., Sciaky EBAM 300 at ~19 ft / 5.8 m length or Stargate at ~120 ft / 37 m).
 - Physical footprint — The entire "printer" occupies a covered industrial hall or semi-outdoor structure the size of several football fields (e.g., 300+ m × 100 m), with massive overhead gantry cranes, linear rails spanning the length, and climate-controlled shielding (inert gas atmosphere to prevent oxidation in stainless/cryo alloys).
 
-# Print Head & Deposition System (Breakthrough Level)
+## Print Head & Deposition System (Breakthrough Level)
 
 - **Deposition heads** — Not one head, but **a synchronized swarm of 50–200+ independent robotic print heads** mounted on a massive overhead gantry array. Each head:
     - a) Feeds **multiple wires simultaneously** (10–20+ wires per head in advanced configs) of stainless, Inconel, refractory, or functionally graded alloys.
@@ -27,7 +27,7 @@ This hypothetical machine — let's call it a "**MegaForge**" **class monolithic
 
 ![](../assets/3d-printer-for-starships/3d-printing-starships-12.jpg)
 
-# Enabling Breakthrough Technologies Integrated
+## Enabling Breakthrough Technologies Integrated
 
 - **Real-time, closed-loop AI control & quality assurance** — Thousands of in-situ sensors (multi-spectral cameras, X-ray/μCT imaging, ultrasonic phased arrays, thermal/LIDAR scanners) feed a massive onboard AI/digital twin system. It predicts, detects, and auto-corrects defects (porosity, cracking, residual stress) at the millisecond level — achieving near-zero defects in cryo-critical structures without post-inspection scrappage.
 - **Functionally graded & multi-material printing** — Seamless transitions between alloys (e.g., high-strength cryo stainless outer → lattice-filled core → refractory inner near hot sections) in a single pass.
@@ -35,7 +35,7 @@ This hypothetical machine — let's call it a "**MegaForge**" **class monolithic
 - **Support & fixturing** — The build platform is a massive, actively cooled/rotating/tilting turntable + linear rail system that slowly rotates or indexes the growing rocket to manage gravity-induced distortion and allow even deposition on all sides.
 - **Energy & feedstock** — Gigawatt-scale power draw (**solar**?), with automated wire feedstock delivery from km-scale spools of recycled/virgin metal.
 
-# Operational Workflow for One Starship
+## Operational Workflow for One Starship
 
 - AI generative design → optimized topology/lattice model uploaded.
 - Printer initializes: Heads swarm into position over the starting thrust puck/base.
@@ -45,7 +45,7 @@ This hypothetical machine — let's call it a "**MegaForge**" **class monolithic
 - Print completes in **days to 1–2 weeks** (vs. months today), with embedded features ready.
 - Autonomous robotic fleets (Optimus-evolved) detach, inspect, vertically assemble if needed, integrate engines/avionics, and prepare for rollout.
 
-# Appearance & Feel
+## Appearance & Feel
 
 Externally, it looks like a colossal, high-tech industrial cathedral: towering gantries spanning football-field lengths, dozens of articulated robotic arms/heads moving in eerie synchrony like a living organism, brilliant laser/plasma glows pulsing along the emerging silver rocket form, surrounded by coolant lines, sensor arrays, and feedstock conveyors. Minimal human presence — mostly supervisory AI oversight.
 

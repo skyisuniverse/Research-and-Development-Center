@@ -6,7 +6,11 @@
 
 ### What is R&D Center?
 
-**[R&D center](https://x.com/skyisuniverse/status/2029870394509803876)** is a community of autonomous participants willing to contribute to Muskonomy. Capable of cognition, perception and embodiment of ideas. Through developing theoretical foundations, mathematical justifications and translating them into prototypes.
+**[R&D center](https://x.com/skyisuniverse/status/2029870394509803876)** is a community of autonomous participants willing to contribute to Muskonomy. 
+
+![](./assets/muskonomy/muskonomy.jpeg)
+
+Capable of cognition, perception and embodiment of ideas. Through developing theoretical foundations, mathematical justifications and translating them into prototypes.
 
 ### Research directions
 - 3D-Printing (of Starships, Cybertrucks, Model Ys, Cybercabs, Semi, Optimi, etc.)
