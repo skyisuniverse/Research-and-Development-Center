@@ -6,7 +6,7 @@
 
 ### What is R&D Center?
 
-**[R&D center](https://x.com/skyisuniverse/status/2029870394509803876)** is a community of autonomous participants willing to contribute to Muskonomy. 
+**[R&D center](https://x.com/skyisuniverse/status/2029870394509803876)** is a community of autonomous participants driven by the mission to preserve and develop consciousness and enable abundance by contributing to Muskonomy. 
 
 ![](./assets/muskonomy/muskonomy.jpeg)
 
