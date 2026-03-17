@@ -13,7 +13,7 @@ const config: DocsThemeConfig = {
   footer: {
     text: (
       <span>
-        Community of autonomous participants willing to contribute to Muskonomy
+        Community of autonomous participants driven by the mission to preserve and develop consciousness and enable abundance by contributing to Muskonomy. 
         {/* <a 
           href="https://github.com/jwasham/coding-interview-university/blob/main/LICENSE.txt"
           target="_blank" 
