@@ -1,0 +1,5 @@
+project:
+  name: Starship Forge AI
+  tz: Asia/Tbilisi
+  adrFolder: ./docs/adr
+  packages: []

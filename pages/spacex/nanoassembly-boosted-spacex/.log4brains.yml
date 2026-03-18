@@ -1,0 +1,5 @@
+project:
+  name: Nano-Assembly Boosted SpaceX
+  tz: Asia/Tbilisi
+  adrFolder: ./docs/adr
+  packages: []
