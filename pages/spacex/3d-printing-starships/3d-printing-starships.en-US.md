@@ -6,7 +6,7 @@ From [my conversation with Grok on 3D-Printing Starships](https://x.com/i/grok/s
 
 ---
 
-![](../assets/3d-printing-starships/3d-printing-starships-2.jpg)
+![](../../assets/3d-printing-starships/3d-printing-starships-2.jpg)
 
 Printing an entire rocket like Starship (a massive, ~120-meter-tall, stainless-steel vehicle with ~5,000 tons of propellant capacity when fully fueled) solely via 3D printing (additive manufacturing, or AM) plus Optimus-like humanoid robots for assembly/handling is theoretically possible in the long term.
 
@@ -151,7 +151,7 @@ Primary process — **Wire-arc additive manufacturing (WAAM)** or **multi-laser/
     - e) Performing final inspections, welding minor seams, and rollout to integration/test.
     - f) This enables a near-lights-out factory with minimal human oversight.
 
-![](../assets/3d-printing-starships/3d-printing-starships-4.jpg)
+![](../../assets/3d-printing-starships/3d-printing-starships-4.jpg)
 
 ## Hypothetical Workflow for One Starship
 
@@ -229,5 +229,5 @@ The vehicle would still retain the overall mission architecture (methalox, full-
 
 In short: Yes — a fully AM-native Starship would look noticeably different: **sleeker, more organic, internally complex yet externally cleaner**, significantly lighter and more integrated, resembling a blend between today's Starship and advanced topology-optimized aerospace structures. This would represent a true paradigm shift from "manufactured assembly" to "grown structure."
 
-![](../assets/3d-printing-starships/3d-printing-starships-8.jpg)
+![](../../assets/3d-printing-starships/3d-printing-starships-8.jpg)
 

@@ -5,7 +5,7 @@ Article on x.com: [Scientific breakthroughs for 3D-Printing Starships](https://x
 
 From [my conversation with Grok on 3D-Printed Starship](https://x.com/i/grok/share/119aec79908b4ddaba9a34e872f70ceb)
 
-![](../assets/scientific-breakthroughs-for-3d-printing-starships/vlcsnap_2024_08_22_15h06m31s.png)
+![](../../assets/scientific-breakthroughs-for-3d-printing-starships/vlcsnap_2024_08_22_15h06m31s.png)
 
 To achieve **100% printing of a Starship**-class rocket (full monolithic or near-monolithic structure, integrated engines like complete Raptors, avionics/embedded systems, heat shield interfaces, flaps, plumbing, and all subsystems) using a hypothetical megaforge-scale 3D printer, several major scientific and engineering breakthroughs would be required. These build on current 2026 progress (e.g., NASA's blown-powder directed energy deposition for large nozzles, Relativity Space's horizontal Stargate printers for major sections and engines, SpaceX's advanced metal AM in Raptor iterations, and emerging multi-material/large-format capabilities), but the full leap to a single-campaign or minimally-assembled vehicle at ~9 m diameter and 50–70 m height involves overcoming fundamental physics, materials, and process limits.
 
