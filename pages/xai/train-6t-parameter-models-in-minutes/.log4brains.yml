@@ -1,5 +1,0 @@
-project:
-  name: Train 6T parameter models in minutes?
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

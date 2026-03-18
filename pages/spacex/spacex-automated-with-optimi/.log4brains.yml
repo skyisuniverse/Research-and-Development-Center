@@ -1,5 +1,0 @@
-project:
-  name: SpaceX automated with Optimi
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

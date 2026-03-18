@@ -1,5 +1,0 @@
-project:
-  name: xAI's 100M Rubin equivalent compute
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

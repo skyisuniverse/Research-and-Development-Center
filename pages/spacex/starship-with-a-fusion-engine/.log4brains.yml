@@ -1,5 +1,0 @@
-project:
-  name: Starship with a fusion engine
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

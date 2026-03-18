@@ -1,5 +1,0 @@
-project:
-  name: Nano-Assembly of Starships
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

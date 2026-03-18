@@ -1,5 +1,0 @@
-project:
-  name: Tesla powered with latest solar
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

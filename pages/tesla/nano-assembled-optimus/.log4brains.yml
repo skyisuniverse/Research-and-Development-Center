@@ -1,5 +1,0 @@
-project:
-  name: Nano-Assembled Optimus
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

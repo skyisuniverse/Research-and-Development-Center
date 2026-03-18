@@ -1,5 +1,0 @@
-project:
-  name: Nano-Assembled Cybercab
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

@@ -1,5 +1,0 @@
-project:
-  name: 3D Printing Starships
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

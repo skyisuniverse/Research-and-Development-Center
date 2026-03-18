@@ -1,5 +1,0 @@
-project:
-  name: Alternative hardware for AI training
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []
