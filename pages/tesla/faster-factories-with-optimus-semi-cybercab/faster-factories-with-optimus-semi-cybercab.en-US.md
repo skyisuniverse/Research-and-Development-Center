@@ -1,6 +1,6 @@
 # Faster factories w/ Optimus, Semi & Cybercab
 
-Article on x.com: [Faster factories w/ Optimus, Semi & Cybercab](https://x.com/skyisuniverse/status/2020034971948171457)
+Article on X.com: [Faster factories w/ Optimus, Semi & Cybercab](https://x.com/skyisuniverse/status/2020034971948171457)
 
 From [my conversation with Grok on building factories faster with Optimus, Semi & Cybercab](https://x.com/i/grok/share/dcd4a56b06ee4aaf9b459cfb28392a2a)
 

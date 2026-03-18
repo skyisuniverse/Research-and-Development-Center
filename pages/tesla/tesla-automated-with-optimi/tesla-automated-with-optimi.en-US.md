@@ -1,6 +1,6 @@
 # Tesla automated with Optimi
 
-Article on x.com: [Tesla automated with Optimi](https://x.com/skyisuniverse/status/2020106454506590245)
+Article on X.com: [Tesla automated with Optimi](https://x.com/skyisuniverse/status/2020106454506590245)
 
 From [my conversation with Grok on automating Tesla with Optimi robots](https://x.com/i/grok/share/270f86fd0a394ff28a3318cbf668e2cd)
 
