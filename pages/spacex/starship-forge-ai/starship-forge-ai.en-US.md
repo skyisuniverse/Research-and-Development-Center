@@ -4,7 +4,7 @@ Article on x.com: [Starship Forge AI](https://x.com/skyisuniverse/status/2019910
 
 From [my conversation with Grok on AI for Designing Starships](https://x.com/i/grok/share/3c229eb4cab0445e80e074b87677a779)
 
-![](../assets/starship-forge-ai/OLM_Full_Pressure_Water_Deluge_Test.jpeg)
+![](../../assets/starship-forge-ai/OLM_Full_Pressure_Water_Deluge_Test.jpeg)
 
 ## AI For Designing Starships
 

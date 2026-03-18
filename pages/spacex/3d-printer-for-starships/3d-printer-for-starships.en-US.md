@@ -4,7 +4,7 @@ Article on x.com: [3D-Printer for Starships](https://x.com/skyisuniverse/status/
 
 From [my conversation with Grok on 3D-Printing Starships](https://x.com/i/grok/share/9cabdf47152941de806cc400527c9af4)
 
-![](../assets/3d-printer-for-starships/3d-printing-starships-3.jpg)
+![](../../assets/3d-printer-for-starships/3d-printing-starships-3.jpg)
 
 Assuming all **conceivable scientific breakthroughs** applicable by the 2030s–2040s (or whenever such maturity is reached), a **single 3D printer** capable of printing an entire Starship-scale rocket (≈120 m tall, ≈9 m diameter, full stainless-steel pressure-vessel tanks + domes + thrust structures + aero surfaces + integrated features) would represent the ultimate evolution of large-scale metal additive manufacturing.
 
@@ -25,7 +25,7 @@ This hypothetical machine — let's call it a "**MegaForge**" **class monolithic
     - c) Deposition rate: **200–1,000+ kg/hour aggregate** (today's best ~10–25 kg/h per head; breakthroughs via parallel multi-wire, AI-optimized melt pools, and plasma/laser combos achieve 20–50× improvement).
 - **Layer-by-layer parallelism** — Heads work in coordinated zones: e.g., 20 heads building the tank barrel in parallel strips, others simultaneously printing domes or thrust puck reinforcements, enabling near-simultaneous deposition across the 120 m length.
 
-![](../assets/3d-printer-for-starships/3d-printing-starships-12.jpg)
+![](../../assets/3d-printer-for-starships/3d-printing-starships-12.jpg)
 
 ## Enabling Breakthrough Technologies Integrated
 
@@ -53,4 +53,4 @@ In this breakthrough future, such a single printer isn't just a tool; it's the *
 
 (Could be interesting in this context: Stargate, Sciaky EBAM, NASA RAMPT blown-powder DED and ongoing large-format advances).
 
-![](../assets/3d-printer-for-starships/3d-printing-starships-6.jpg)
+![](../../assets/3d-printer-for-starships/3d-printing-starships-6.jpg)

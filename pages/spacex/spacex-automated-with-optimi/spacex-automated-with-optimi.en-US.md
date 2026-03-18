@@ -4,7 +4,7 @@ Article on x.com: [SpaceX automated with Optimi](https://x.com/skyisuniverse/sta
 
 From [my conversation with Grok on automating SpaceX with Optimi robots](https://x.com/i/grok/share/f736837b930f4297b0286610c8263d9b)
 
-![](../assets/spacex-automated-with-optimi/Space_X_Starbase_Gigabay_20250107.jpg)
+![](../../assets/spacex-automated-with-optimi/Space_X_Starbase_Gigabay_20250107.jpg)
 
 ## Introduction
 
