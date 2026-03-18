@@ -1,11 +1,12 @@
 {
-  "name": "ai-seminar-knowledge-base",
+  "name": "research-and-development-center",
   "version": "0.0.1",
   "description": "Nextra docs template",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "log4brains": "./node_modules/.bin/log4brains"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/shuding/nextra-docs-template#readme",
   "dependencies": {
+    "log4brains": "^1.1.0",
     "next": "^14.2.4",
     "nextra": "2.13.4",
     "nextra-theme-docs": "2.13.4",
