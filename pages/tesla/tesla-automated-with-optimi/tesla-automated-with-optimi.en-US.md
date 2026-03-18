@@ -4,7 +4,7 @@ Article on x.com: [Tesla automated with Optimi](https://x.com/skyisuniverse/stat
 
 From [my conversation with Grok on automating Tesla with Optimi robots](https://x.com/i/grok/share/270f86fd0a394ff28a3318cbf668e2cd)
 
-![](../assets/tesla-automated-with-optimi/cortex-2.jpeg)
+![](../../assets/tesla-automated-with-optimi/cortex-2.jpeg)
 
 If all Tesla factories (Fremont, Giga Texas, Giga Shanghai, Giga Berlin, Giga Nevada, etc.) were **fully automated** with Optimus humanoid robots deployed at true scale—meaning the vast majority of repetitive, dexterous, and even moderately complex manual labor replaced by fleets of Optimus units—this would represent one of the most dramatic manufacturing transformations in industrial history. As of early 2026, Tesla is in the early stages of internal deployment (hundreds to low thousands of units performing tasks like battery cell sorting, parts handling, and logistics at sites like Fremont and Giga Texas), with aggressive ramp-up plans underway, but full end-to-end automation across all factories remains a multi-year (likely 5–10+ year) vision rather than an immediate reality.
 
@@ -55,7 +55,7 @@ Full-factory automation would require **tens to hundreds of thousands** of relia
 
 If "at scale" means 50,000–500,000+ Optimus units per major factory running most production tasks, we're realistically looking at **late 2020s to mid-2030s** for the first factory to approach full humanoid automation, and **2035–2045** before all Tesla factories are predominantly robot-operated (absent a breakthrough acceleration).When it happens, though, it would mark the point where physical manufacturing becomes closer to software scaling—near-marginal-zero labor cost, infinite up-time potential, and relentless year-over-year capability improvement. Tesla's vehicle output could explode, turning the company into something more like an AI/robotics foundry that happens to make cars as its flagship product.This is still speculative science-fiction-adjacent territory today—but the trajectory from 2021 prototype to 2026 factory-floor thousands-of-units reality has been faster than almost anyone (outside Tesla) expected.
 
-![](../assets/tesla-automated-with-optimi/cortex2-a.jpeg)
+![](../../assets/tesla-automated-with-optimi/cortex2-a.jpeg)
 
 ### Hypothetical impacts
 
@@ -99,7 +99,7 @@ Optimus itself has a target manufacturing cost of **$20,000–$30,000/unit** at 
 
 In summary, full Optimus automation would slash Tesla's labor costs by **billions annually**, boost output/margins dramatically, and position vehicles as ultra-low-cost commodities—potentially adding **$50–$200+ billion/year** in economic value to Tesla alone once mature. This remains visionary, but the trajectory from prototypes to production lines in ~2–3 years keeps the possibility alive.
 
-![](../assets/tesla-automated-with-optimi/cortex2-b.jpeg)
+![](../../assets/tesla-automated-with-optimi/cortex2-b.jpeg)
 
 ### Dispersing ungrounded fears (due to lack of knowledge)
 
@@ -136,4 +136,4 @@ Your point extends logically to the world economy:
 
 In summary, no net reduction in fulfilling human activity at Tesla or globally, but a redefinition where people are freed for "new interesting things" while robots handle the drudgery. Tesla's culture of rapid iteration and internal redeployment supports this internally, and if Optimus scales as hoped, the abundance effect could make widespread job loss a temporary illusion on the path to much larger opportunity. Whether reality matches this vision depends on execution speed, societal adaptation, and avoiding dystopian pitfalls.
 
-![](../assets/tesla-automated-with-optimi/cortex2-d.jpeg)
+![](../../assets/tesla-automated-with-optimi/cortex2-d.jpeg)

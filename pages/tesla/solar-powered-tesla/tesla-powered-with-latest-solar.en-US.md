@@ -4,7 +4,7 @@ Article on x.com: [Tesla powered with latest solar](https://x.com/skyisuniverse/
 
 From [my conversation with Grok on powering Tesla with latest solar energy tech](https://x.com/i/grok/share/3308fb5e21b04d63a8f612805339e65b)
 
-![](../assets/tesla-powered-with-latest-solar/cortex-2.jpeg)
+![](../../assets/tesla-powered-with-latest-solar/cortex-2.jpeg)
 
 The impact of powering **all of Tesla's operations** (factories/Gigafactories, offices, Superchargers, etc.) entirely with solar energy using the latest top technology—including **perovskite-silicon tandem solar cells** — would be transformative in sustainability terms, though challenging in scale and cost. Tesla already sources a high percentage of renewable energy and deploys solar at sites like Giga Shanghai (producing ~11 million kWh/year from rooftop solar) and aims for 100% renewables, but full on-site or dedicated solar powering remains partial today.
 

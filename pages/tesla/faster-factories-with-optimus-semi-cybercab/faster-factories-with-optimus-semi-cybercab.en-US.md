@@ -4,7 +4,7 @@ Article on x.com: [Faster factories w/ Optimus, Semi & Cybercab](https://x.com/s
 
 From [my conversation with Grok on building factories faster with Optimus, Semi & Cybercab](https://x.com/i/grok/share/dcd4a56b06ee4aaf9b459cfb28392a2a)
 
-![](../assets/faster-factories/cybercab-optimus.jpeg)
+![](../../assets/faster-factories/cybercab-optimus.jpeg)
 
 In a hypothetical future scenario (aligned with the current date of early 2026 and Tesla's ongoing advancements in robotics and autonomy), building a new large-scale factory like a Tesla Gigafactory (e.g., ~4-5 million square feet, similar to Giga Texas) using primarily **Optimus humanoid robots** for construction labor, **Tesla Semis** in autonomous platooning mode for material transport, and **Cybercabs** (or similar FSD-enabled small vehicles) for site logistics and worker transport could dramatically transform the process.
 
@@ -14,7 +14,7 @@ This vision assumes mature, scaled production and reliable Full Self-Driving (FS
 
 Assuming Optimus at scale ($20,000-30,000 per unit long-term manufacturing cost, with thousands to tens of thousands deployed), autonomous Semis ($150,000-200,000 per unit, platooning reduces effective driver costs to near-zero), and Cybercabs (low ~$20-30k estimated vehicle cost, ultra-low ~$0.20/mile operation) are available in large fleets.
 
-![](../assets/faster-factories/tesla-semi-facelift.webp)
+![](../../assets/faster-factories/tesla-semi-facelift.webp)
 
 ### **Time Reduction** — Potentially **50-80% faster**.
 
@@ -36,7 +36,7 @@ Assuming Optimus at scale ($20,000-30,000 per unit long-term manufacturing cost,
 - **Upfront capex** — Higher initially (robot/Semi/Cybercab fleets: potentially $100M-$500M+ for a large project), but amortized across many factories → net savings.
 - **Estimated total cost: 40-70% of current** (e.g., $800M-$1.4B vs. $2B+), with ongoing reductions as robot costs fall.
 
-![](../assets/faster-factories/cybercab.jpeg)
+![](../../assets/faster-factories/cybercab.jpeg)
 
 ### Other Impacts
 
@@ -47,4 +47,4 @@ Assuming Optimus at scale ($20,000-30,000 per unit long-term manufacturing cost,
 
 Overall, this future would make Gigafactory-style megaprojects far cheaper and faster — potentially turning what is now a multi-year, multi-billion-dollar endeavor into a sub-year, sub-billion-dollar one. The biggest leaps would come from labor replacement and 24/7 autonomous operations, aligning with Tesla's vision of AI/robotics enabling exponential scaling. Real-world rollout would depend on achieving reliable autonomy and robot capabilities at scale.
 
-![](../assets/faster-factories/tesla-semi.jpeg)
+![](../../assets/faster-factories/tesla-semi.jpeg)

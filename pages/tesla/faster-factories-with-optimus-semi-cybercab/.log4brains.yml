@@ -1,0 +1,5 @@
+project:
+  name: Faster factories w/ Optimus, Semi & Cybercab
+  tz: Asia/Tbilisi
+  adrFolder: ./docs/adr
+  packages: []
