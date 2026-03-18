@@ -1,0 +1,5 @@
+project:
+  name: xAI powered entirely with solar
+  tz: Asia/Tbilisi
+  adrFolder: ./docs/adr
+  packages: []

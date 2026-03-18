@@ -4,7 +4,7 @@ Article on x.com: [xAI powered entirely with solar](https://x.com/skyisuniverse/
 
 From [my conversation with Grok on powering xAI's compute entirely with solar energy](https://x.com/i/grok/share/f116aa5ef7ef4199a4bede4b38246002)
 
-![](../assets/xai-powered-entirely-with-solar/xai-cable-pron-gb-200.jpeg)
+![](../../assets/xai-powered-entirely-with-solar/xai-cable-pron-gb-200.jpeg)
 
 As of early 2026, xAI's Colossus supercomputer complex in Memphis, Tennessee (primarily Colossus 1 and Colossus 2, with a third building acquired for further expansion) is one of the world's largest AI training clusters. It currently operates at a scale of roughly **500,000–555,000 NVIDIA GPUs** (a mix of H100/H200, GB200/GB300 Blackwell-series, and similar), with a total power draw in the range of **~1.5–2 GW** (gigawatts) at or near full capacity, based on recent announcements and reports. This makes it gigawatt-scale—the first of its kind for AI training—and plans aim toward 1 million+ GPUs in the near term.
 

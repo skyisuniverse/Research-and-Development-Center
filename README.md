@@ -13,6 +13,14 @@
 - [Nano-Assembly of Starships ADR] ()
 - [Starship with a fusion engine ADR] ()
 
+## xAI ADRs
+
+- [Direct Binary Code Generation ADR] ()
+- [Train 6T parameter models in minutes? ADR] ()
+- [xAI powered entirely with solar ADR] ()
+- [xAI's 100M Rubin equivalent compute ADR] ()
+- [Alternative hardware for AI training ADR] ()
+
 ## Tesla ADRs
 
 - [Faster factories w/ Optimus, Semi & Cybercab ADR] ()

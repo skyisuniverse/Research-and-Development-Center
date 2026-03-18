@@ -4,12 +4,12 @@ import { DocsThemeConfig } from 'nextra-theme-docs';
 const config: DocsThemeConfig = {
   logo: <span>R&D Center</span>,
   project: {
-    link: 'https://github.com/Research-and-Development-Center/r-d-center',
+    link: 'https://github.com/skyisuniverse/Research-and-Development-Center',
   },
   chat: {
     link: 'https://discord.gg/F2aXdBJG',
   },
-  docsRepositoryBase: 'https://github.com/Research-and-Development-Center/r-d-center',
+  docsRepositoryBase: 'https://github.com/skyisuniverse/Research-and-Development-Center',
   footer: {
     text: (
       <span>
