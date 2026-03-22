@@ -16,7 +16,7 @@ Capable of cognition, perception and embodiment of ideas. Through developing the
 - Consciousness (Quantum Culture/Execution, Shared Consciousness, BCIs, etc.)
 - Propulsion (Fusion engines, Warp-drives, Solitons, etc.)
 - Particle accelerators
-- etc.
+- etc. 
 
 ### Social
 
