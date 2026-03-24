@@ -12,6 +12,10 @@
 
 Capable of cognition, perception and embodiment of ideas. Through developing theoretical foundations, mathematical justifications and translating them into prototypes.
 
+### Types of research
+
+Currently R&D Center performs [Basic Research](/research/basic-research) with the goals to perform [Applied Research](/research/applied-research) with possible [Commercialization](/research/commercialization).
+
 ### Research directions
 - 3D-Printing (of Starships, Cybertrucks, Model Ys, Cybercabs, Semi, Optimi, etc.)
 - Nano-Assembly (of Starships, Cybertrucks, Model Ys, Cybercabs, Semi, Optimi, Nano-Factories, etc.)

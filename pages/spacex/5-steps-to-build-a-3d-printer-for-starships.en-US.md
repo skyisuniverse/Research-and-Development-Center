@@ -2,7 +2,9 @@
 
 Article on X.com: [5 Steps to build a 3D-printer for Starships](https://x.com/skyisuniverse/status/2022996581113565523)
 
-From [my conversation with Grok on MegaForge - a 3D-printer for Starships]()
+From [my conversation with Grok on MegaForge - a 3D-printer for Starships](https://x.com/i/grok/share/029d67f2707143cfb5fcf7537b0aef67)
+
+![](../assets/5-steps-to-build-a-3d-printer-for-starships/3d-printing-starships-8.jpg)
 
 ## Step-by-Step Guide to Building a MegaForge: The Smartest Approach
 
