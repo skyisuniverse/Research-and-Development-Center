@@ -12,7 +12,7 @@ From [my conversation with Grok on Possibilities for Terraforming Planets in Sol
 
 From [my conversation with Grok on Perspectives of Restructuring Gas Giants (Jupiter, Saturn, Uranus, Neptune)](https://x.com/i/grok/share/6bd7ef07a4a94925bf4820360657443e)
 
-![](../assets/perspectives-of-restructuring-gas-giants/1.jpg)
+![](../../assets/perspectives-of-restructuring-gas-giants/1.jpg)
 
 ## Introduction
 

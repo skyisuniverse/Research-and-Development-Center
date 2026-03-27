@@ -16,7 +16,7 @@ From [my conversation with Grok on Restructuring Planets in Terraforming Context
 
 From [my conversation with Grok on Planet Colonization in the context of Restructuring and Habitation](https://x.com/i/grok/share/2ff07db0303e4527849f1f3666ccf475)
 
-![](../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/1.jpg)
+![](../../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/1.jpg)
 
 ## Introduction
 
@@ -120,8 +120,8 @@ In a mature Solar System, a restructured Jupiter-core super-Earth could become t
 
 The limiting factor is no longer technology or energy, but vision and the willingness to undertake projects spanning generations. In the long run, these restructured cores could host the majority of human civilization in the Solar System.
 
-![](../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/2.jpg)
+![](../../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/2.jpg)
 
-![](../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/3.jpg)
+![](../../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/3.jpg)
 
-![](../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/4.jpg)
+![](../../assets/planet-colonization-in-the-context-of-restructuring-and-habitation/4.jpg)

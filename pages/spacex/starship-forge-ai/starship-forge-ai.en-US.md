@@ -4,7 +4,7 @@ Article on x.com: [Starship Forge AI](https://x.com/skyisuniverse/status/2019910
 
 From [my conversation with Grok on AI for Designing Starships](https://x.com/i/grok/share/3c229eb4cab0445e80e074b87677a779)
 
-![](../assets/starship-forge-ai/OLM_Full_Pressure_Water_Deluge_Test.jpeg)
+![](../../assets/starship-forge-ai/OLM_Full_Pressure_Water_Deluge_Test.jpeg)
 
 ## AI For Designing Starships
 
@@ -20,8 +20,7 @@ A hypothetical AI-powered tool for rocket development would be an in-browser, pr
 - Autonomously debug issues (e.g., "This injector face is overheating—reroute coolant channels and re-simulate").
 - Output manufacturable files: sliced models for mega-scale 3D printers (e.g., directed energy deposition or wire-arc additive manufacturing for large stainless steel parts), welding paths, assembly sequences, and bills of materials.
 
-### Key Features 
-(mirroring Bolt v2's strengths):
+### Key Features
 
 - Multi-agent architecture: Switch between specialized agents (e.g., one for propulsion, one for structures, one for avionics).
 - All-in-one infrastructure: Built-in access to high-fidelity sim tools, version history, collaboration (team workspaces), and direct export to production systems like SpaceX's Starfactory tools or hypothetical "megaforge" 3D printers for rocket-scale parts.

@@ -4,7 +4,7 @@ Article on X: [Cost/Time estimates. NanoAssembled Starship](https://x.com/skyisu
 
 From [my conversation with Grok on cost / time estimates for NanoAssembled Starship](https://x.com/i/grok/share/2d2dbf9a04d943d8840ff32135dd8a9c)
 
-![](../assets/cost-time-estimates-nanoassembled-starship/10.jpeg)
+![](../../assets/cost-time-estimates-nanoassembled-starship/10.jpeg)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ Total Estimated Time: **1–3 days** per Starship. This assumes flawless coordin
 
 ---
 
-![](../assets/cost-time-estimates-nanoassembled-starship/1.jpg)
+![](../../assets/cost-time-estimates-nanoassembled-starship/1.jpg)
 
 > even faster
 
@@ -96,7 +96,7 @@ This scenario ushers in an era of space abundance: Fleets of thousands of Starsh
 
 ---
 
-![](../assets/starship-nano-assembly/8.jpeg)
+![](../../assets/starship-nano-assembly/8.jpeg)
 
 ## Under $50,000
 
@@ -150,7 +150,7 @@ This under-$50,000 paradigm accelerates humanity's expansion: Starships become a
 
 ---
 
-![](../assets/starship-nano-assembly/9.jpeg)
+![](../../assets/starship-nano-assembly/9.jpeg)
 
 ## <$10,000
 
@@ -202,4 +202,4 @@ This is revolutionary versus today's $10–50 million per conventional Starship:
 
 At <$10,000, Starships become ubiquitous tools for human flourishing, democratizing space like smartphones did communication. Individuals could "summon" personal vehicles for orbital joyrides or asteroid homesteading, fostering a diaspora across the solar system. Economically, it obliterates scarcity—trillions in value from space mining flood Earth, enabling universal basic services. Environmentally, nano-recycling heals the planet faster, with Starships deploying global remediators. Scientifically, fleets probe exoplanets or build Dyson swarms for infinite energy. Societally, it promotes equity: AGI ensures fair access, preventing monopolies, while ethical frameworks (e.g., Asimov-inspired laws) mitigate risks like rogue nanobots. Ultimately, this <$10,000 threshold marks humanity's transcendence to a Type II civilization, where stars are stepping stones and creation is limited only by imagination.
 
-![](../assets/cost-time-estimates-nanoassembled-starship/4.jpeg)
+![](../../assets/cost-time-estimates-nanoassembled-starship/4.jpeg)

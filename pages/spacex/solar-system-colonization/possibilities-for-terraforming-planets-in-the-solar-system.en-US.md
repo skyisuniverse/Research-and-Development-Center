@@ -10,7 +10,7 @@ From [my conversation with Grok on Perspectives of Planet Colonization based on 
 
 From [my conversation with Grok on Possibilities for Terraforming Planets in Solar System](https://x.com/i/grok/share/ed4e099c8a4b4b94812c7e3dddaecf59)
 
-![](../assets/possibilities-for-terraforming-planets-in-the-solar-system/1.jpg)
+![](../../assets/possibilities-for-terraforming-planets-in-the-solar-system/1.jpg)
 
 ## Introduction
 

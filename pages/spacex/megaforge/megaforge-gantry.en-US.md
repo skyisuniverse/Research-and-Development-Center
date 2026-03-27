@@ -4,8 +4,7 @@ Article on X: [MegaForge. Gantry.](https://x.com/skyisuniverse/status/2023470553
 
 From [my conversation with Grok on 3D-Printer for Starships](https://x.com/i/grok/share/92be0a7ce12c4688b57765159d02f22b)
 
-![](../assets/megaforge-gantry/1.jpg)
-
+![](../../assets/megaforge-gantry/1.jpg)
 
 The MegaForge's gantry system—or more precisely, its **array of synchronized mega-gantries** — serves as the structural and kinematic backbone of this hypothetical ultra-large directed energy deposition (DED) printer. In the breakthrough scenario (2030s–2040s maturity), it enables precise, parallel deposition across a 150–250 m horizontal build envelope for printing an entire Starship-scale rocket (or AM-optimized variant) in days to weeks. Drawing from real-world large-scale AM systems like Relativity Space's Stargate 4th Generation (horizontal gantry-like setup with robotic arms spanning 36.5 m × 7.3 m) and Sciaky's EBAM 300 (portal gantry in a vacuum chamber up to 19 ft × 4 ft × 4 ft work envelope), the MegaForge scales this ~10–20× larger while incorporating futuristic advances in materials, actuation, and AI for swarm coordination.
 
@@ -78,7 +77,7 @@ This aligns with real-world trends in large-scale additive manufacturing (AM), C
 
 Here's a tailored comparison for the 300+ m gantry array (swarm of 100–300 print heads, heavy multi-wire payloads, sub-mm precision over vast distances, 24/7 operation in an inert-gas hall):
 
-![](../assets/megaforge-gantry/HBTcX9MbcAMON-A.png)
+![](../../assets/megaforge-gantry/HBTcX9MbcAMON-A.png)
 
 Key takeaway: Hydraulics shine in brute-force, low-precision heavy equipment (e.g., excavators), but for MegaForge's precision manufacturing at extreme scale, electric eliminates failure modes, boosts uptime, and leverages AI/digital twins for flawless operation. The 2030s breakthroughs (e.g., compact 100 kW+ torque motors, zero-wear maglev) close any force gaps.
 

@@ -4,7 +4,7 @@ Article on X: [Starship with a fusion engine](https://x.com/skyisuniverse/status
 
 From [my conversation with Grok on Starship with fusion engine](https://grok.com/share/bGVnYWN5_a2ed475b-ed76-4275-8e50-100255908a29)
 
-![](../assets/starship-with-a-fusion-engine/1.jpg)
+![](../../assets/starship-with-a-fusion-engine/1.jpg)
 
 > How much time would we need to get to each of the planets in our solar system with such Starship? How much time would we need to establish a self-sustaining civilization on Mars (according to Elon Musk's vision of it) ? Give the timeline. What other destinations outside of our solar system would we be able to reach & in what time? Would we be able to establish self-sustaining civilizations on all other planets of our solar system with such Starship?
 
@@ -50,10 +50,10 @@ With this fusion drive, interstellar travel becomes feasible (though not practic
 
 Beyond ~10 light-years, times exceed centuries, limiting to robotic exploration. Advanced variants (e.g., fusion ramjets scooping interstellar hydrogen) could halve times in optimistic models, but current concepts cap at decades for nearest stars.
 
-![](../assets/starship-with-a-fusion-engine/2.jpg)
+![](../../assets/starship-with-a-fusion-engine/2.jpg)
 
-![](../assets/starship-with-a-fusion-engine/3.jpg)
+![](../../assets/starship-with-a-fusion-engine/3.jpg)
 
-![](../assets/starship-with-a-fusion-engine/4.jpg)
+![](../../assets/starship-with-a-fusion-engine/4.jpg)
 
-![](../assets/starship-with-a-fusion-engine/5.jpg)
+![](../../assets/starship-with-a-fusion-engine/5.jpg)

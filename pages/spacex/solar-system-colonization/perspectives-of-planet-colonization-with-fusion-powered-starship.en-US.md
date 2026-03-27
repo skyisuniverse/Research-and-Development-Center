@@ -6,7 +6,7 @@ From [my conversation with Grok on Starship with fusion engine](https://grok.com
 
 From [my conversation with Grok on perspectives of planet colonization with fusion-powered Starship](https://x.com/i/grok/share/a758b095ee3b42679a451fe1a0f2aa33)
 
-![](../assets/perspectives-of-planet-colonization-with-fusion-powered-starship/1.jpg)
+![](../../assets/perspectives-of-planet-colonization-with-fusion-powered-starship/1.jpg)
 
 ## Introduction
 

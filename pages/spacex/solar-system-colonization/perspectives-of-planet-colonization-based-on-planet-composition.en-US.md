@@ -8,7 +8,7 @@ From [my conversation with Grok on perspectives of planet colonization with fusi
 
 From [my conversation with Grok on Perspectives of Planet Colonization based on Planet Composition](https://x.com/i/grok/share/742e7032e8944794b5016e01618e82aa)
 
-![](../assets/perspectives-of-planet-colonization-based-on-planet-composition/1.jpg)
+![](../../assets/perspectives-of-planet-colonization-based-on-planet-composition/1.jpg)
 
 ## Introduction
 

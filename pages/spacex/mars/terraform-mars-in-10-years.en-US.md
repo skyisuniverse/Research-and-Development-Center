@@ -4,7 +4,7 @@ Article on X: [Terraform Mars in 10 years](https://x.com/skyisuniverse/status/20
 
 From [my conversation with Grok on Terraforming Mars with Nanobots & NanoAssembly](https://x.com/i/grok/share/061fbc706e7e4ad19922b5e451636a00)
 
-![](../assets/terraform-mars-in-10-years/1.jpg)
+![](../../assets/terraform-mars-in-10-years/1.jpg)
 
 > For Mars-specific tech, engineered **nanorods** could **accelerate atmospheric restoration** by trapping heat **5,000x more efficiently** than CO2, potentially raising temperatures by 30K in years and enabling liquid water stability.
 
@@ -48,18 +48,18 @@ Nanobots—programmable, self-replicating molecular machines—could exponential
 
 In essence, these nano-technologies could make Mars terraforming a practical pathway to multi-planetary humanity, shifting from survival outposts to thriving, Earth-independent worlds.
 
-![](../assets/terraform-mars-in-10-years/2.jpg)
+![](../../assets/terraform-mars-in-10-years/2.jpg)
 
-![](../assets/terraform-mars-in-10-years/3.jpg)
+![](../../assets/terraform-mars-in-10-years/3.jpg)
 
-![](../assets/terraform-mars-in-10-years/4.jpg)
+![](../../assets/terraform-mars-in-10-years/4.jpg)
 
-![](../assets/terraform-mars-in-10-years/5.jpg)
+![](../../assets/terraform-mars-in-10-years/5.jpg)
 
-![](../assets/terraform-mars-in-10-years/6.jpg)
+![](../../assets/terraform-mars-in-10-years/6.jpg)
 
-![](../assets/terraform-mars-in-10-years/7.jpg)
+![](../../assets/terraform-mars-in-10-years/7.jpg)
 
-![](../assets/terraform-mars-in-10-years/8.jpg)
+![](../../assets/terraform-mars-in-10-years/8.jpg)
 
-![](../assets/terraform-mars-in-10-years/9.jpg)
+![](../../assets/terraform-mars-in-10-years/9.jpg)

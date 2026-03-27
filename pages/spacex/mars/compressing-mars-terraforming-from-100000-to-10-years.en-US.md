@@ -4,7 +4,7 @@ Article on X: [Compressing Mars Terraforming from 100,000+ to 10 years](https://
 
 From [my conversation with Grok on compressing Mars Terraforming from 100,000+ to 10 years](https://x.com/i/grok/share/dae6cb095e564613a5e7f9328c125232)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/22.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/22.jpg)
 
 ## Introduction
 
@@ -60,46 +60,46 @@ This 10-year feat assumes:
 
 While grounded in concepts like nanorods being 5,000x efficient, this remains highly speculative—real timelines would likely extend to 50–200 years due to unforeseen complexities like dust interference or biological adaptation.
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/1.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/1.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/2.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/2.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/3.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/3.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/4.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/4.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/5.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/5.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/6.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/6.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/7.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/7.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/8.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/8.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/9.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/9.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/10.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/10.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/11.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/11.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/12.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/12.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/13.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/13.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/14.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/14.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/15.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/15.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/16.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/16.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/17.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/17.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/18.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/18.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/19.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/19.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/20.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/20.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/21.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/21.jpg)
 
-![](../assets/compressing-mars-terraforming-from-100000-to-10-years/22.jpg)
+![](../../assets/compressing-mars-terraforming-from-100000-to-10-years/22.jpg)

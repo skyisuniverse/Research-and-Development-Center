@@ -4,7 +4,7 @@ Article on X: [Starship Nano-Assembly](https://x.com/skyisuniverse/status/202474
 
 From [my conversation with Grok on nano-assembly of Starships](https://x.com/i/grok/share/6d5f1d872b464ab286210ce20cd10e6d)
 
-![](../assets/starship-nano-assembly/7.jpeg)
+![](../../assets/starship-nano-assembly/7.jpeg)
 
 ## Hypothetical Assembly of a Full Starship Using Molecular Nanotechnology
 
@@ -67,20 +67,20 @@ Throughout, assembly happens in a massively parallel fashion. Imagine a shimmeri
 
 This scenario leverages MNT's strengths—precision, efficiency, and adaptability—to make Starship assembly as routine as printing a document. However, challenges like managing heat dissipation during rapid assembly or preventing unintended replication would need robust safeguards. In practice, early versions might hybridize with current tech, like using nanobots for critical components while traditionally building the bulk structure. If we achieve this, it could accelerate space colonization by making mega-rockets abundant and customizable.
 
-![](../assets/starship-nano-assembly/1.jpeg)
+![](../../assets/starship-nano-assembly/1.jpeg)
 
-![](../assets/starship-nano-assembly/2.jpeg)
+![](../../assets/starship-nano-assembly/2.jpeg)
 
-![](../assets/starship-nano-assembly/3.jpeg)
+![](../../assets/starship-nano-assembly/3.jpeg)
 
-![](../assets/starship-nano-assembly/4.jpeg)
+![](../../assets/starship-nano-assembly/4.jpeg)
 
-![](../assets/starship-nano-assembly/5.jpeg)
+![](../../assets/starship-nano-assembly/5.jpeg)
 
-![](../assets/starship-nano-assembly/6.jpeg)
+![](../../assets/starship-nano-assembly/6.jpeg)
 
-![](../assets/starship-nano-assembly/8.jpeg)
+![](../../assets/starship-nano-assembly/8.jpeg)
 
-![](../assets/starship-nano-assembly/9.jpeg)
+![](../../assets/starship-nano-assembly/9.jpeg)
 
-![](../assets/starship-nano-assembly/10.jpeg)
+![](../../assets/starship-nano-assembly/10.jpeg)

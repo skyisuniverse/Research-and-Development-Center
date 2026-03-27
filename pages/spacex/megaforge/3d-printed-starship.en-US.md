@@ -4,7 +4,7 @@ Article on x.com: [3D-Printed Starship](https://x.com/skyisuniverse/status/20198
 
 From [my conversation with Grok on 3D-Printed Starship](https://x.com/i/grok/share/119aec79908b4ddaba9a34e872f70ceb)
 
-![](../assets/3d-printed-starship/Flight_3_Lift_Of.jpg)
+![](../../assets/3d-printed-starship/Flight_3_Lift_Of.jpg)
 
 ## 100% 3D-Printed Starship
 
@@ -28,7 +28,7 @@ In a hypothetical 100% printed Starship (structure, engines, avionics housings, 
 
 This vision assumes breakthroughs in large-scale metal 3D printing (speed, size, material properties, multi-material capability, and quality control for cryogenic/ high-thrust parts). The goal of "100% printed" would push toward unprecedented integration and part-count reduction compared to today's ~thousands-of-rings welded approach.
 
-![](../assets/3d-printed-starship/3d-printing-starships-1.jpg)
+![](../../assets/3d-printed-starship/3d-printing-starships-1.jpg)
 
 ## How could 100% of Starship be printed?
 
@@ -52,7 +52,7 @@ Here is a realistic speculative pathway to full monolithic or near-100% printed 
 
 - Advances needed: Multi-material AM at high resolution (e.g., copper-alloy cooling channels embedded in nickel superalloy chambers), high-temperature post-processing to achieve wrought-like fatigue properties, and printing of dynamic components (e.g., turbine blades with internal lattice cooling). Extreme DfAM (design for additive manufacturing) to eliminate thousands of legacy joints, as already partially demonstrated in Raptor 3.
 
-![](../assets/3d-printed-starship/3d-printing-starships-5.jpg)
+![](../../assets/3d-printed-starship/3d-printing-starships-5.jpg)
 
 ### 3. Avionics, Sensors, Power, and Secondary Systems
 
@@ -87,4 +87,4 @@ Here is a realistic speculative pathway to full monolithic or near-100% printed 
 
 In summary, 100% printing demands converging revolutions in scale, speed, multi-material capability, in-process intelligence, material science (cryogenic/high-thrust alloys with printed microstructures rivaling forgings), and system-level DfAM. While elements exist today (e.g., large horizontal printers, Raptor 3's AM consolidation), the full leap would represent a manufacturing singularity for rocketry—turning Starship from a welded stainless masterpiece into a truly additively "grown" interplanetary machine.
 
-![](../assets/3d-printed-starship/3d-printing-starships-11.jpg)
+![](../../assets/3d-printed-starship/3d-printing-starships-11.jpg)
