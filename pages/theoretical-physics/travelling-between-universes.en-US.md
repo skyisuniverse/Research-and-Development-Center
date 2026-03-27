@@ -79,5 +79,3 @@ Even speculatively, hurdles abound: Energy demands could rival universal scales,
 ![](../assets/travelling-between-universes/8.jpg)
 
 ![](../assets/travelling-between-universes/9.jpg)
-
-![](../assets/travelling-between-universes/10.jpg)
