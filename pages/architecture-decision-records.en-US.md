@@ -11,3 +11,11 @@ Read article(s) to reflect on the topic, its domain & nuances. Write down consid
 ### 2. Create MADR for decision candidate
 
 Describe the possible decision, its context & considerations.
+
+### 3. Reflect on the decision candidate
+
+Weigh in all pros, cons. Select the best possible option.
+
+### 4. Make an architecture decision
+
+Write down decision and the reasoning, logic behind it.
