@@ -77,3 +77,5 @@ This would enable your travel scenarios, turning Starship from Mars-hauler to st
 ![](../../assets/superluminal-effective-warp-drive/11.jpg)
 
 ![](../../assets/superluminal-effective-warp-drive/12.jpg)
+
+![](../../assets/superluminal-effective-warp-drive/13.jpg)
