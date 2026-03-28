@@ -7,3 +7,8 @@
 
 - three.js / canvas for visualization ?
 - wasm ?
+
+
+---
+
+[Rust WASM Parser](https://dly.to/tp11qz5IpHf)
