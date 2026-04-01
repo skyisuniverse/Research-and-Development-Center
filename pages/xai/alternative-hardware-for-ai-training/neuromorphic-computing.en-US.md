@@ -1,0 +1,7 @@
+# Neuromorphic Computing
+
+![](../../assets/neuromorphic-chips/neuromorphic-chips-1.jpg)
+
+[Alternative hardware for AI training: Neuromorphic Computing](/xai/alternative-hardware-for-ai-training#neuromorphic-computing)
+
+> **Neuromorphic Computing**: Brain-inspired hardware, or neuromorphic chips, mimic neural structures with integrated memory and processing (in-memory computing). Recent advances include using memristor arrays for vector-matrix multiplications—a core operation in AI training—while leveraging device randomness for efficient random number generation in probabilistic algorithms. This reduces data movement, cutting latency and power use by factors like 10-100x compared to GPUs. For example, 3D neuromorphic architectures enable conditional computing in large models, scaling to brain-like efficiency with sparse connectivity (e.g., modeling gray and white matter in the brain). Future breakthroughs here could allow AI models to train in real-time on edge devices, making the process faster and more accessible without massive data centers.

@@ -1,0 +1,5 @@
+# Analog Computing
+
+[Alternative hardware for AI training: Analog Computing](/xai/alternative-hardware-for-ai-training#analog-computing-with-topology-optimization)
+
+**Analog Computing with Topology Optimization**: Analog systems using resistive memory could revolutionize training by shifting from precise weight tuning to pruning connections in overparameterized networks. In this approach, random weights are generated via stochastic electroforming in memory chips, then optimized by iteratively removing low-importance edges (pruning) and reinstating critical ones. This draws from the "Lottery Ticket Hypothesis," where sparse sub-networks perform as well as dense ones. Results show 87-98% accuracy on benchmarks like Fashion-MNIST and ImageNet, with 99% reductions in programming operations and up to 99.7% energy savings versus GPUs. This simplifies training by embracing hardware noise as a feature, not a flaw, and could enable sustainable, low-cost AI hardware for broader adoption.
