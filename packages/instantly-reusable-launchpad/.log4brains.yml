@@ -1,0 +1,5 @@
+project:
+  name: instantly-reusable-launchpad
+  tz: Africa/Abidjan
+  adrFolder: ./docs/adr
+  packages: []
