@@ -30,14 +30,29 @@ log4brains build
 
 ## log4brains deployment
 
-- build from src `***-adr` folders to
+1. add `github-publish-action.yml` to `.github/workflows` for each ADR as described in [log4brains CI/CD configuration examples](https://github.com/thomvaill/log4brains?tab=readme-ov-file#-cicd-configuration-examples)
 
-- deploy each adr to github-pages environment to a subfolder in a domain `url/***-adr`, e.g.:
+    - specify the `--basePath` for each ADR `log4brains build --basePath /${GITHUB_REPOSITORY#*/}/log4brains` with `architecture-decision-records/***-1-adr` pattern
+        - e.g. `--basePath --basePath /${GITHUB_REPOSITORY#*/}/architecture-decision-records/nano-assembly-adr`
+        - e.g. `--basePath --basePath /${GITHUB_REPOSITORY#*/}/architecture-decision-records/instantly-reusable-launchpad-adr`
+        - etc.
+
+2. After the first run, this workflow should create a gh-pages branch in the repository containing the generated static files to serve in `architecture-decision-records/nano-assembly-adr/.log4brains/out`
+
+```
+Error: The directory you're trying to deploy named /home/runner/work/Research-and-Development-Center/Research-and-Development-Center/architecture-decision-records/nano-assembly-adr/.log4brains/out doesn't exist. Please double check the path and any prerequisite build scripts and try again.
+```
+
+which probably means ADR has to be manually built before deploying?
+
+<!-- - build from src `***-adr` folders to -->
+
+<!-- - deploy each adr to github-pages environment to a subfolder in a domain `url/***-adr`, e.g.:
 
     - `url/***-1-adr`
     - `url/***-2-adr`
     - `url/***-3-adr`
-    - etc.
+    - etc. -->
 
 ## MADRs
 
