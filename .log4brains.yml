@@ -1,5 +1,0 @@
-project:
-  name: Research & Development Center
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []
