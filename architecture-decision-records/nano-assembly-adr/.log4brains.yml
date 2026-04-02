@@ -1,5 +1,0 @@
-project:
-  name: nano-assembly-adr
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []

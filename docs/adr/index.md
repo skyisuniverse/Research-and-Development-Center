@@ -2,7 +2,7 @@
 
 # Architecture knowledge base
 
-Welcome 👋 to the architecture knowledge base of nano-assembly-adr.
+Welcome 👋 to the architecture knowledge base of General R&D-wise ADR.
 You will find here all the Architecture Decision Records (ADR) of the project.
 
 ## Definition and purpose

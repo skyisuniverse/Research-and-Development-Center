@@ -1,4 +1,4 @@
-name: Publish nano-assembly-adr Log4brains
+name: Publish Log4brains
 on:
   push:
     branches:
@@ -17,11 +17,11 @@ jobs:
       - name: Install and Build Log4brains
         run: |
           npm install -g log4brains
-          log4brains build --basePath /${GITHUB_REPOSITORY#*/}/architecture-decision-records/nano-assembly-adr
+          log4brains build --basePath /${GITHUB_REPOSITORY#*/}/log4brains
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.7.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: .
-          TARGET_FOLDER: nano-assembly-adr
+          FOLDER: .log4brains/out
+          TARGET_FOLDER: log4brains

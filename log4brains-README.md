@@ -39,11 +39,33 @@ log4brains build
 
 2. After the first run, this workflow should create a gh-pages branch in the repository containing the generated static files to serve in `architecture-decision-records/nano-assembly-adr/.log4brains/out`
 
+3. Then, we have to tell GitHub that we don't want to use Jekyll, otherwise, you will get a 404 error:
+
+```
+git checkout gh-pages
+touch .nojekyll
+git add .nojekyll
+git commit -m "Add .nojekyll for Log4brains"
+git push
+```
+
+4. Finally, you can [enable your GitHub page](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site):
+
+- On GitHub, go to `Settings > GitHub Pages`
+- Select the `gh-pages` branch as the "Source"
+- Then, select the `/ (root)` folder
+
+You should now be able to see your knowledge base at `https://<username>.github.io/<repository>/log4brains/`.
+It will be re-built and published every time you push on `main`.
+
+
 ```
 Error: The directory you're trying to deploy named /home/runner/work/Research-and-Development-Center/Research-and-Development-Center/architecture-decision-records/nano-assembly-adr/.log4brains/out doesn't exist. Please double check the path and any prerequisite build scripts and try again.
 ```
 
 which probably means ADR has to be manually built before deploying?
+
+[github.com/JamesIves/github-pages-deploy-action/blob/3.7.1/action.yml](https://github.com/JamesIves/github-pages-deploy-action/blob/3.7.1/action.yml)
 
 <!-- - build from src `***-adr` folders to -->
 
