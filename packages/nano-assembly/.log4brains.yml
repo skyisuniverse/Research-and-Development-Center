@@ -1,5 +1,0 @@
-project:
-  name: nano-assembly
-  tz: Africa/Abidjan
-  adrFolder: ./docs/adr
-  packages: []

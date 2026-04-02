@@ -1,5 +1,5 @@
 project:
-  name: General R&D-wise ADR
-  tz: Asia/Tbilisi
+  name: nano-assembly
+  tz: Africa/Abidjan
   adrFolder: ./docs/adr
   packages: []
