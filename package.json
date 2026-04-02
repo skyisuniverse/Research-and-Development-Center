@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "log4brains": "./node_modules/.bin/log4brains"
+    "start": "next start"
   },
   "repository": {
     "type": "git",
