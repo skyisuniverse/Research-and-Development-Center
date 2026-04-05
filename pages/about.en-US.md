@@ -8,7 +8,7 @@ Capable of cognition, perception and embodiment of ideas. Through developing the
 
 ### Types of research
 
-Currently R&D Center performs [Basic Research](/research/basic-research) with the goals to perform [Applied Research](/research/applied-research) with possible [Commercialization](/research/commercialization).
+Currently R&D Center performs [Basic Research](/research/basic-research) with the goals to perform [Applied Research](/research/applied-research).
 
 ### Research directions
 - 3D-Printing (of Starships, Cybertrucks, Model Ys, Cybercabs, Semi, Optimi, etc.)
