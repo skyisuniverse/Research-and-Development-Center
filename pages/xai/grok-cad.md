@@ -13,3 +13,20 @@ Code-wise it could imply some certain architecture with applications and librari
 ---
 
 - Think about [Starship Forge AI]() on how to efficiently organize the code & resuability for generic Grok CAD Modelling tool and Starship Forge AI
+
+---
+
+- CAD Modeling of Starships
+    - AI Models trained for specific starship domain (s)
+    - Reliability (ensure persistent, predictable high-quality results) 
+    - Precision
+
+- CAD modeling of Starlink sattelites
+
+---
+
+## TechStack
+
+- Canvas ?
+- Three.js ?
+- WASM
