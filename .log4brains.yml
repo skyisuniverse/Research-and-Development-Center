@@ -1,5 +1,0 @@
-project:
-  name: General R&D-wise ADR
-  tz: Asia/Tbilisi
-  adrFolder: ./docs/adr
-  packages: []
