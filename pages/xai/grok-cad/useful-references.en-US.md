@@ -1,12 +1,9 @@
 # References
 
-https://dev.opencascade.org/project/opencascadejs
-
 - [Conversation with Grok: Building web-based CAD Tool with next.js + mui](https://x.com/i/grok/share/1beeae16cba14f0f8104ac822cbb6b6a)
 
-- [webphysics](https://github.com/jure/webphysics)
-
 - [OpenCascade.js](https://ocjs.org/) - Port of the OpenCascade CAD library to JavaScript and WebAssembly via Emscripten.
+    - [dev.opencascade.org/project/opencascadejs](https://dev.opencascade.org/project/opencascadejs)
     - [dev.opencascade.org](https://dev.opencascade.org/) - Open CASCADE Technology (OCCT) is the only open-source full-scale 3D geometry library. Striving to be one of the best free cad software kernels, OCCT is widely used for the development of specialized programs dealing with the following engineering and mechanical domains: 3D modeling (CAD), manufacturing (CAM), numerical simulation (CAE), measurement equipment (CMM) and quality control (CAQ). Since its publication in 1999 as an open source CAD software kernel, OCCT has been successfully used in numerous projects ranging from building and construction to aerospace and automotive.
     - Geometric modeling - ...
     - Surface and solid modeling - ...

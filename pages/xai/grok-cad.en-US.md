@@ -1,5 +1,9 @@
 # Grok CAD
 
+Shoould Grok CAD & Simulation Tool be one app? Or two?
+
+---
+
 - Grok CAD could be a generic tool for CAD modelling
     - with domain-specific tools for CAD modelling like Starship Forge AI
 
