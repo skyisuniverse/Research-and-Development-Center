@@ -4,7 +4,7 @@
 
 From [my conversation with Grok on Possible workflow for ground works with Nanobot Swarms @ Starbase](https://x.com/i/grok/share/fc181ed38edd4c22bfc0467d5fad2446)
 
-![](../../assets/possible-workflow-for-ground-works-with-nanobots-at-starbase/1.jpg)
+<!-- ![](../../assets/possible-workflow-for-ground-works-with-nanobots-at-starbase/1.jpg) -->
 
 **Under mature mechanosynthesis and coordinated nanobot swarms (diamondoid/superior molecular machinery with 0.1 nm positional precision, exponential programmable replication, hierarchical AI coordination, near-100% energy efficiency from ambient solar/chemical harvesting, reversible atomic operations, flawless error-correction, and absolute safety via hardcoded broadcast kill-switches), every Starbase ground work is executed as an in-situ atomic restructuring of local coastal sand, silt, clay, water, and air**.
 

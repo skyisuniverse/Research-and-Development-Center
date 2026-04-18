@@ -4,7 +4,7 @@ Article on X: [Energy for nanobots swarms @Starbase](https://x.com/skyisuniverse
 
 From [my conversation with Grok on Energy for nanobots swarms @Starbase](https://x.com/i/grok/share/d3fbfd183d9849ebb294cfaa7f67d1ef)
 
-![](../../assets/energy-for-nanobots-swarms-at-starbase/1.jpg)
+<!-- ![](../../assets/energy-for-nanobots-swarms-at-starbase/1.jpg) -->
 
 **Under mature mechanosynthesis and coordinated nanobot swarms (diamondoid/superior molecular machinery with 0.1 nm precision, reversible molecular motors, flawless error-correction, and thermodynamic-limit-approaching operations), power delivery achieves near-100% efficiency through direct mechanochemical or photoelectric conversion**. Waste heat is minimized to near-zero via reversible reactions (no combustion-style thermalization), perfect phonon management, and molecular-scale Carnot engines that recycle every joule. Swarms draw exclusively from ambient solar and chemical sources (no external batteries or macro power plants needed). Energy is harvested, stored as chemical potential (e.g., high-energy bonds or pressurized H₂/O₂ micro-reservoirs), and distributed via molecular fuel pipelines or electrochemical gradients. Individual bots operate at picowatt (pW) scales; specialized “power harvester” bots (or hybrid roles) supply the swarm.
 

@@ -4,7 +4,7 @@ Article on X: [Ground works flow with Nanobot Swarms applicable at Starbase](htt
 
 From [my conversation with Grok on Ground works flow with Nanobot Swarms applicable at Starbase](https://x.com/i/grok/share/c6de68006130490b9915f0360c8847ad)
 
-![](../../assets/ground-works-flow-with-nanobots-applicable-at-starbase/1.jpg)
+<!-- ![](../../assets/ground-works-flow-with-nanobots-applicable-at-starbase/1.jpg) -->
 
 ## Introduction
 

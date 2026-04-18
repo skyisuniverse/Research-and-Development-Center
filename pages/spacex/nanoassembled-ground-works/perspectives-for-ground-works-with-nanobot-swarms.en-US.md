@@ -4,7 +4,7 @@ Article on X: [Perspectives for ground works with Nanobot Swarms](https://x.com/
 
 From [my conversation with Grok on Perspectives for ground works with Nanobot Swarms](https://x.com/i/grok/share/9c9cad7693f246e6a85d5547f3ee251e)
 
-![](../../assets/perspectives-for-ground-works-with-nanobot-swarms/1.jpg)
+<!-- ![](../../assets/perspectives-for-ground-works-with-nanobot-swarms/1.jpg) -->
 
 ## Introduction
 

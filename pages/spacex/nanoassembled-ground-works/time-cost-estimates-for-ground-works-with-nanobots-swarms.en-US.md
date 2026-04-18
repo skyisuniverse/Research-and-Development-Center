@@ -4,7 +4,7 @@ Article on X: [Time/Cost estimates for ground works with Nanobots Swarms](https:
 
 From [my conversation with Grok on Time/Cost estimates for ground works with Nanobots Swarms](https://x.com/i/grok/share/92d3a446289a4dd28317c82f0363c318)
 
-![](../../assets/time-cost-estimates-for-ground-works-with-nanobots-swarms/1.jpg)
+<!-- ![](../../assets/time-cost-estimates-for-ground-works-with-nanobots-swarms/1.jpg) -->
 
 ## Introduction
 
